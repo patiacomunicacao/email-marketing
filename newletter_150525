@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>O seu jeito de viver te espera no Reserva Royal</title>
+    <style>
+        body { margin:0; padding: 0; background-color: #e0f0d9; font-family: Arial, sans-serif; }
+        .container { max-width: 600px; marfin: 0 auto; background: #ffffff; }
+        .header { backgroung: #1f3c2c; text-align: center; padding: 30px 20px; color: #ffffff; }
+        .header img { max-width: 120px; }
+        .banner img { width: 100%; height: auto; display: block; }
+        .section { padding: 20px; text-align: center; }
+        .section h1 {font-size: 24px; margin-bottom: 10px; }
+        section p { font-size: 16px; line-height: 1.5; color: #333333; }
+        .button { display: inline-block; padding: 12px 24px; margin-top: 20px; background-color: #1f3c2c; color: #ffffff; text-decoration: none; border-radius: 4px; }
+    }   .two-columns { display: flex; flex-wrap: wrap; justify-content: space-between; }
+        .column { width: 48%; margin-bottom: 20px; }
+        .column img { width: 100%; height: auto; border-radius: 4px; }
+        .column h2 { font-size: 18px; margin: 10px 0; color: #1f3c2c; }
+        .column p { font-sixe: 14px; color: #333333; }
+        .footer { backgroung: #1f3c2c; text-align: center; padding: 20px; color: #ffffff; font-size: 12px; }
+        . footer a { color: #ffffff; text-decoration: underline; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <img src="https://blog.verdeazulurbanismo.com.br/wp-content/uploads/2022/07/LOGO-BRANCO.png" alt="Logo">
+            <p>RESERVA ROYAL</p>
+            <h1>Seu jeito único de viver está aqui</h1>
+        </div><
+
+        <div class="banner">
+            <img src="https://blog.verdeazulurbanismo.com.br/wp-content/uploads/2025/05/banner_news_150525.png" alt="Banner">
+        </div>
+
+        <div class="section">
+            <h1>Urbanismo Sustentável: <span style="color:#4CAF50;"</h1>: como cada detalhe conta na construção de um loteamento inteligente</span></h1>
+            <p>O Reserva Royal é um loteamento planejado que se destaca por seu urbanismo sustentável. Cada detalhe foi pensado para criar um ambiente que respeita a natureza e promove a qualidade de vida dos moradores. Desde a escolha dos materiais até o planejamento das áreas verdes, tudo foi projetado para garantir um equilíbrio perfeito entre conforto e sustentabilidade.</p>
+            <p>O projeto inclui ruas arborizadas, áreas de lazer integradas à natureza e espaços para atividades ao ar livre. Além disso, o Reserva Royal conta com infraestrutura moderna e eficiente, garantindo que os moradores tenham acesso a tudo o que precisam sem abrir mão do respeito ao meio ambiente.</p>
+            <p>O Reserva Royal é mais do que um loteamento, é um estilo de vida. Venha conhecer e descubra como cada detalhe conta na construção de um lugar inteligente e sustentável.</p>
+            <a href="https://wa.me/554832201770?text=Ol%C3%A1%2C%20quero%20saber%20mais%20sobre%20o%20Reserva%20Royal." class="button">Fale com um consultor</a>
+        </div>
+
+        <div class="two-columns">
+            <div class="column">
+                <img src="https://blog.verdeazulurbanismo.com.br/wp-content/uploads/2025/05/terraplanagem-loteamento.jpeg" alt="Urbanismo Sustentável">
+                <h2>A importância da terraplanagem bem executada em loteamentos</h2>
+                <p>Entenda a importância da terraplanagem bem executada em loteamentos para garantir segurança, durabilidade e qualidade nas construções</p>
+                <a href="https://www.verdeazulurbanismo.com.br/a-importancia-da-terraplanagem-bem-executada-em-loteamentos/" class="button">Leia Mais</a>
+            </div>
+            <div class="column">
+                <img src=""https://blog.verdeazulurbanismo.com.br/wp-content/uploads/2025/04/7-motivos-para-construir-sua-casa-em-um-loteamento-sustentavel.jpg" alt="Urbanismo Sustentável">
+                <h2>7 motivos para construir sua casa em um loteamento sustentável</h2><h2>
+                <p>Descubra 7 motivos para construir sua casa em um loteamento sustentável e garanta mais qualidade de vida, economia e respeito ao meio ambiente.</p>
+                <a href="https://www.verdeazulurbanismo.com.br/7-motivos-para-construir-sua-casa-em-um-loteamento-sustentavel/" class="button">Leia Mais</a>
+            </div>
+        </div>
+
+        <div class="section" style="backgroung: #d2e9c6;">
+            <h1>Agende sua visita e conheça o <span style="color:#4CAF50;">Reserva Royal</span></h1>
+            <p>Agende sua visita e conheça o Reserva Royal, um loteamento planejado que une urbanismo sustentável e qualidade de vida. Venha viver em um lugar onde cada detalhe foi pensado para você.</p>
+            <a href="https://wa.me/554832201770?text=Ol%C3%A1%2C%20quero%20saber%20mais%20sobre%20o%20Reserva%20Royal." class="button">Agende sua visita</a>
+        </div>
+
+        <div class="footer">
+            <p>© 2025 Verde & Azul Urbanismo | <a href="https://www.verdeazulurbanismo.com.br/">Site Verde & Azul Urbanismo</a>a</p>
+            <p><a href="%descadastro">Descadastre-se</a> | <a href="https://www.instagram.com/verdeazulurbanismo/">Siga-nos no Instagram</a></p>
+        </div>
+    </div>
+</body>
+</html>
